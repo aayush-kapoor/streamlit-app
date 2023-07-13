@@ -83,7 +83,7 @@ semver==3.0.1
 six==1.16.0
 smmap==5.0.0
 snowflake-connector-python==3.0.4
-snowflake-sqlalchemy @ file:///C:/Users/aayush.kapoor/Downloads/snowflake_sqlalchemy-1.4.7-py2.py3-none-any.whl#sha256=0b8209fb3155f1c497f77909a9a02f5509433e69626b3577a40b1cb425020c2a
+snowflake-sqlalchemy==1.4.7
 sortedcontainers==2.4.0
 sqlalchemy==1.4.49
 st-pages==0.4.1
